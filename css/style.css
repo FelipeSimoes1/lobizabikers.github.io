@@ -189,6 +189,7 @@ background-color: orange;
 }
 
 .footer{
+    min-width: 1200px;
     padding: 20px 0;
     border-top: 2px solid gray;
     text-align: center;
