@@ -39,7 +39,7 @@ background-color: orange;
 .container-banner{
     width: 100%;
     padding: 0 2%;
-    height: 557px;
+    height: 200px;
     background-image: url(../images/tonin_2.jpg);
     background-size: cover;
 }
