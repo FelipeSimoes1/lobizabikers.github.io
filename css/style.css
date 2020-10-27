@@ -266,6 +266,7 @@ background-color: orange;
 	}
     .container-banner{
         height: auto;
+	background-position: 20% 80%;
     }
 	.form{
 		float: none;
